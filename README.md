@@ -22,7 +22,6 @@ Lab ini memperkenalkan dasar penggunaan Terraform sebagai Infrastructure as Code
 | **Created Date** | 2026-07-03 |
 | **Last Updated** | 2026-07-03 |
 | **Repository** | portfolio-learning |
-| **License** | MIT |
 | **Status** | Completed |
 | **Tags** | Terraform, GCP, IaC, Compute Engine, VPC, Storage, Infrastructure Automation |
 
