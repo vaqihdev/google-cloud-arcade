@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-Lab ini memperkenalkan dasar penggunaan Terraform sebagai Infrastructure as Code (IaC) untuk mengelola resource Google Cloud. Seluruh infrastruktur dibuat, dimodifikasi, dan dihancurkan menggunakan deklarasi pada file Terraform tanpa melakukan konfigurasi manual melalui Google Cloud Console.
+This lab introduces the fundamentals of using Terraform as Infrastructure as Code (IaC) to manage Google Cloud resources. The entire infrastructure is created, modified, and destroyed using declarations in Terraform files without manual configuration via the Google Cloud Console.
 
 ### 📝 Cover
 
@@ -29,17 +29,17 @@ Lab ini memperkenalkan dasar penggunaan Terraform sebagai Infrastructure as Code
 
 ## 🎯 Objectives
 
-- Memahami workflow Terraform.
-- Menginisialisasi project Terraform.
-- Membuat Virtual Private Cloud (VPC).
-- Membuat Compute Engine VM.
-- Melakukan update resource menggunakan Terraform.
-- Memahami *destructive update*.
-- Menggunakan Static External IP.
-- Menggunakan *dependency* antar resource.
-- Menggunakan Provisioner.
-- Mengelola Terraform State.
-- Menghapus seluruh infrastruktur.
+- Understand the Terraform workflow.
+- Initialize a Terraform project.
+- Create a Virtual Private Cloud (VPC).
+- Create a Compute Engine VM.
+- Update resources using Terraform.
+- Understand *destructive updates*.
+- Use a Static External IP.
+- Utilize resource *dependencies*.
+- Use Provisioners.
+- Manage Terraform State.
+- Destroy the entire infrastructure.
 
 ---
 
